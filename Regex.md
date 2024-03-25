@@ -152,6 +152,7 @@ Github URL: https://github.com/BaharMahmud/RegexTutorialJS
 
 Email: bahar.a.mahmud@gmail.com
 
+Gist url: https://gist.github.com/BaharMahmud/9ec87c8e03e0f378a0336f988acae984
 ## User Story
 
 ```text
